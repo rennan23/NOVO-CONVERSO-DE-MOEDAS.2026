@@ -11,7 +11,7 @@
 
        body
        {
-        background-color:#533f91;
+        background-color:rgb(40, 58, 216);
         }
 
         .Logo{
@@ -78,6 +78,7 @@
         display: block;
         margin: 0 auto;
         MARGIN-TOP: 24px;
+        border-radius: 9px;
      }
     P{
         text-align: center;
